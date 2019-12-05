@@ -1,0 +1,24 @@
+#components-layout-demo-side .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+
+.event-class {
+  background-color: white;
+  color: black;
+}
+
+.event-class:hover {
+  background-color: rgb(187, 6, 6);
+  color: white;
+  transition: all 0.3s ease-in-out;
+
+}
+
+.ant-list-item-meta:hover{
+  background-color: cyan;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
