@@ -34,7 +34,7 @@ export default class App extends Component {
                                 title={
                                     <span>
                                         <Icon type="user" />
-                                        <span>Jayasri</span>
+                                        <span>Maverick</span>
                                     </span>
                                 }
                             >
