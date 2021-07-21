@@ -68,7 +68,7 @@ export default class App extends Component {
                         <Content style={{ margin: '0 16px' }}>
                             <ContentComponent/>
                         </Content>
-                        <Footer style={{ textAlign: 'center' }}>IHub ©2019 Created by <a href="https://www.synchrony.com" target="_blank" rel="noopener noreferrer" style={{ color: "rgb(15, 71, 247)", textDecoration: "underline" }}>Synchrony</a></Footer>
+                        <Footer style={{ textAlign: 'center' }}>IHub ©2019 Created by Sai Teja Jonnadula</Footer>
                     </Layout>
                 </Layout>
             </BrowserRouter>
